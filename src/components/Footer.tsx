@@ -29,7 +29,7 @@ const Footer = () => {
               </p>
               <p className="flex items-center text-gray-400">
                 <MapPin className="h-5 w-5 mr-2" />
-                Ouagadougou, Burkina Faso
+                Lomé, Togo
               </p>
             </div>
           </div>

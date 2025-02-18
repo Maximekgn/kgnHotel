@@ -27,7 +27,7 @@ const Home = () => {
               Bienvenue à l'Hôtel Zindnaaba
             </h1>
             <p className="text-xl md:text-2xl mb-8">
-              Découvrez le luxe et le confort au cœur de Ouagadougou
+              Découvrez le luxe et le confort au cœur de Lomé
             </p>
             <a
               href="/booking"

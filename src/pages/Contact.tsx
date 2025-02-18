@@ -109,7 +109,7 @@ const Contact = () => {
                   <MapPin className="w-6 h-6 text-gold-600 mt-1" />
                   <div className="ml-4">
                     <h3 className="font-semibold">Adresse</h3>
-                    <p className="text-gray-600">Ouagadougou, Burkina Faso</p>
+                    <p className="text-gray-600">Lomé, Togo</p>
                   </div>
                 </div>
                 
